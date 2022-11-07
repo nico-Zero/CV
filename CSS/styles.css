@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: "Merriweather", serif;
+    background-image: linear-gradient(#8ed4fcce, #7ac5f000);
+}
+
+h1 {
+    margin: 0;
+    font-family: "Sacramento", cursive;
+}
+h2 {
+    font-family: "Montserrat", sans-serif;
+}
+h3 {
+    font-family: "Montserrat", sans-serif;
+}
+h4 {
+    font-family: "Montserrat", sans-serif;
+}
+
+.profile_image {
+    height: 80px;
+    position: fixed;
+    top: 0;
+    right: 0;
+}
+.profile_img-2 {
+    height: 200px;
+}
+.data {
+    text-decoration: underline;
+}
+.cloud-1 {
+    position: relative;
+    top: 0;
+    left: 30%;
+    height: 200px;
+}
+.cloud-2 {
+    position: absolute;
+    top: 30%;
+    left: 20%;
+    height: 150px;
+}
+
+.mountain {
+    height: 500px;
+}
+.chilli-img {
+    height: 150px;
+}
+.computer-img {
+    height: 150px;
+    border-radius: 100%;
+}
